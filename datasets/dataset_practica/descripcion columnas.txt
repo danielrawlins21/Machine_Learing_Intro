@@ -1,0 +1,15 @@
+Descripción de las Columnas
+
+age: Edad del beneficiario principal
+
+sex: Género del contratante del seguro, femenino, masculino
+
+bmi: Índice de Masa Corporal, que proporciona una comprensión del cuerpo, pesos que son relativamente altos o bajos en relación con la altura, índice objetivo del peso corporal (kg / m ^ 2) utilizando la relación entre altura y peso, idealmente 18.5 a 24.9
+
+children: Número de hijos cubiertos por el seguro médico / Número de dependientes
+
+smoker: Fumar
+
+region: El área de residencia del beneficiario en los EE. UU., noreste, sureste, suroeste, noroeste.
+
+charges: Costos médicos individuales facturados por el seguro de salud
